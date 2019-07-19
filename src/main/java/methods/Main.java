@@ -10,5 +10,6 @@ public class Main{
         method.calculate1(10);
         method.calculate2(100,27);
         method.calculate3(20,11,22);
+        
     }
 }
